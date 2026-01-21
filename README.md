@@ -1,55 +1,36 @@
 # Olá, meu nome é Guilherme Alcântara!
 
-## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Técnico em Informática pelo CEFET-MG.
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-Guilherme_Alcântara_de_Souza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealcsouza)
+[![Email](https://img.shields.io/badge/Email-guilhermeasouza906@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermeasouza906@gmail.com)
+
+## 🚀 Skills
+
+- Linguagens:  
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,mysql)](https://skillicons.dev)
+
+- Frameworks e Bibliotecas:  
+
+  [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel)](https://skillicons.dev)
+
+- Ferramentas:  
+
+  [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse,vscode,idea)](https://skillicons.dev)
+
 ---
+<div align="center">
+<h3><b>Stats Github</b> <h3>
+</div>
+  <br>
+  <p align="center">
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alcPresunto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alcPresunto&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </p>
+  
+## 🏆 Projetos Destacados
 
-## Minhas Skills
-
-**Aplicações e dados**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alcPresunto&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcPresunto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilhermealcsouza)](www.linkedin.com/in/guilhermealcsouza)
-[![Gmail Badge](https://img.shields.io/badge/-guilhermeasouza906@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeasouza906@gmail.com)](mailto:guilhermeasouza906@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/alcPresunto?label=follow&style=social)](https://github.com/alcPresunto)
+- [BoraBio](https://github.com/alcPresunto/borabio-tcc): Trabalho de conclusão de curso. Plataforma educacional de Biologia construída com Laravel.
+- [Projeto Final WEB2](https://github.com/alcPresunto/Projeto-Final---WEB2): Loja virtual desenvolvida no projeto final da disciplina Aplicações para WEB 2 utilizando PHP e o padrão MVC.
+- [Releitura - Kangaroo](https://github.com/alcPresunto/Kangaroo-Grupo4): Trabalho Prático desenvolvido na disciplina de Linguagens e Técnicas de Programação 1. Utiliza C++ e a biblioteca SFML.
+- [Releitura - ActRaiser](https://github.com/alcPresunto/TP2-Grupo10): Trabalho Prático desenvolvido na disciplina de Linguagens e Técnicas de Programação 2. Utiliza Java, LibGDX e a implementação do padrão Builder.
